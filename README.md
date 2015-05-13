@@ -1,2 +1,2 @@
 # qes-android
-Quadratic Equation Solver
+© Manojit Ghosh
